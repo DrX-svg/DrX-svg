@@ -103,4 +103,8 @@ Building reliable backend and cloud-based systems, while exploring **server-auth
 
 ---
 
-<sub> · DrX · </sub>
+<sub>
+  <a href="https://drx-svg.pages.dev/heart/" title="♥">·</a>
+  DrX
+  <a href="https://drx-svg.pages.dev/heart/" title="♥">·</a>
+</sub>
